@@ -1,0 +1,83 @@
+.manage{
+    padding: 180px 0 160px;
+}
+
+.manage__wrap{
+    position: relative;
+}
+
+.manage__wrap-desc-property{
+    color: #159BE8;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.manage__wrap-desc-title{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 54px;
+    width: 456px;
+    height: 108px;
+    margin: 28px 0 8px;
+}
+
+.manage__wrap-desc-text{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 617px;
+    height: 60px;
+}
+
+.manage__wrap-cards{
+    display: flex;
+    gap: 16px;
+    margin: 34px 0 60px;
+}
+
+.manage__wrap-cards-card-title{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.manage__wrap-cards-card-text{
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 269px;
+    height: 48px;
+}
+
+.manage__wrap-btn{
+    color: #fff;
+    background: #159BE8;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.manage__wrap-btn:hover{
+    background: #fff;
+    color: #159BE8;
+}
+
+.manage__wrap-points{
+    position: absolute;
+    left: 139px;
+}
+
+.manage__wrap-phones{
+    position: absolute;
+    right: 0;
+    top: 2700px;
+    display: flex;
+    align-items: center;
+}

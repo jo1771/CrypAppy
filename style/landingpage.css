@@ -1,0 +1,111 @@
+.landingpage{
+    background: #0C0D2E;
+    padding: 160px 0;
+    overflow: hidden;
+}
+
+.landingpage__wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.landingpage__wrap-desc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.landingpage__wrap-desc-title{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 54px;
+    width: 666px;
+    height: 108px;
+    text-align: center;
+}
+
+.landingpage__wrap-desc-text{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 699px;
+    height: 60px;
+    text-align: center;
+}
+
+.landingpage__wrap-description{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.landingpage__wrap-description-dis1-title{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: end;
+}
+
+.landingpage__wrap-description-dis1-text{
+    color: #fff;
+    text-align: end;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 339px;
+    height: 72px;
+    margin-top: 10px;
+}
+
+.landingpage__wrap-description-dis2-title{
+    color: #fff;
+    text-align: start;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.landingpage__wrap-description-dis2-text{
+    color: #fff;
+    text-align: start;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 328px;
+    height: 72px;
+    margin-top: 10px;
+}
+
+.landingpage__wrap-description-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 96px;
+}
+
+.landingimg{
+    position: absolute;
+    top: -400px;
+    left: 0;
+    top: 906px;
+    z-index: 1;
+}
+.landingpage__wrap-description-dis1{
+    text-align: end;
+}
+
+.landingpage__wrap-description-dis1-box{
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.landingpage__wrap-description-dis2-box{
+    margin-bottom: 12px;
+    cursor: pointer;
+}

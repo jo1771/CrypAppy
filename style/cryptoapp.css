@@ -1,0 +1,86 @@
+.cryptoapp{
+    padding: 180px 0 160px;
+}
+
+.cryptoapp__wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cryptoapp__wrap-desc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+}
+
+.cryptoapp__wrap-desc-text{
+    color: #159BE8;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.cryptoapp__wrap-desc-title{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 54px;
+    width: 623px;
+    height: 108px;
+    text-align: center;
+}
+
+.cryptoapp__wrap-desc-apps{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1266px;
+    margin-bottom: 99px;
+}
+
+.cryptoapp__wrap-cards{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+.cryptoapp__wrap-cards-card-text{
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 26px 0 14px;
+}
+
+.cryptoapp__wrap-cards-card-profil{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.cryptoapp__wrap-cards-card-profil-desc{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cryptoapp__wrap-cards-card-profil-desc-title{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.cryptoapp__wrap-cards-card-profil-desc-text{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.cryptoapp__wrap-cards-card-star{
+    cursor: pointer;
+}
